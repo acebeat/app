@@ -8,4 +8,4 @@ toolkit/
 
 | App       | Description | URL |
 |-----------|-------------|-----|
-| mathtools | 数学随机工具  | https://acebeat.github.io/app/toolkit/mathtools |
+| mathtools | Math Random Tool | https://acebeat.github.io/app/toolkit/mathtools |
